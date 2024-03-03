@@ -91,7 +91,6 @@ write_list_to_file(items, file_path)
 print(f"The list has been written to '{file_path}'.")
 
 
-
 #ex6
 import string
 
